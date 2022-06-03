@@ -1,1 +1,1 @@
-# testtask_javarush
+# testtask
